@@ -1,0 +1,16 @@
+
+
+  [
+    { "cardId": 1, "src": "assets/rehabilitacion/banda.jfif", "description": "Banda Elástica: $8.350" },
+    { "cardId": 1, "src": "assets/rehabilitacion/manija de subjecion.jfif", "description": "Manija de subjecion $17.800" },
+    { "cardId": 1, "src": "assets/rehabilitacion/pelota.jfif", "description": "Pelota: $23.530" },
+    { "cardId": 1, "src": "assets/rehabilitacion/tubos de latex.jfif", "description": "Tubos de latex: $6.200" },
+    { "cardId": 2, "src": "assets/insumos/andador para adulto.jfif", "description": "Andador para adulto: $132.500" },
+    { "cardId": 2, "src": "assets/insumos/muletas.jfif", "description": "Muletas: $84.900" },
+    { "cardId": 2, "src": "assets/insumos/nebulizador.jfif", "description": "Nebulizador: $237.400" },
+    { "cardId": 2, "src": "assets/insumos/tensiometro.jfif", "description": "Tensiometro: $329.800" },
+    { "cardId": 3, "src": "assets/sillas de ruedas/1.jfif", "description": "Silla de ruedas: $629.100" },
+    { "cardId": 3, "src": "assets/sillas de ruedas/electrica.jfif", "description": "Silla de ruedas eléctrica: $894.600" },
+    { "cardId": 3, "src": "assets/sillas de ruedas/plegable.jfif", "description": "Silla de ruedas plegable: $691.300" },
+    { "cardId": 3, "src": "assets/sillas de ruedas/postural.jfif", "description": "Silla de ruedas postural: $867.900" }
+]
